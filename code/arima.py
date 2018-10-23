@@ -43,7 +43,7 @@ D_data.columns = ['销量差分']   # 换列名
 # print(D_data.head(3))
 
 '''
-# 差分后的时序图
+差分后的时序图
 '''
 # D_data.plot()
 # plt.title(u"差分后的时序图")
