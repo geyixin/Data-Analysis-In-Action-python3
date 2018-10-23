@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b072b79f-2831-4bbb-bbb0-2c8f30d4b8dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/catering_sale.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/discretization_data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/normalization_data.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/principal_component.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataOut/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/componet_pca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/dataDiscretization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/interpolationBylagelangr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/normalize_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/arima_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/bankloan.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/consumption_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/menu_orders.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/sales_data.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/apply_apriori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/apriori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/arima.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/cm_plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/decision_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/k_means.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/logistics_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/neutral_network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/tsne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,14 +27,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="componet_pca.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/componet_pca.py">
+    <leaf>
+      <file leaf-file-name="arima.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/arima.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="39" selection-end-column="18" />
+            <state relative-caret-position="601">
+              <caret line="109" column="59" selection-start-line="109" selection-start-column="59" selection-end-line="109" selection-end-column="59" />
               <folding>
-                <element signature="e#71#91#0" expanded="true" />
+                <element signature="e#71#90#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,13 +60,28 @@
         <option value="$PROJECT_DIR$/code/normalize_data.py" />
         <option value="$PROJECT_DIR$/code/dataDiscretization.py" />
         <option value="$PROJECT_DIR$/code/componet_pca.py" />
+        <option value="$PROJECT_DIR$/code/logistics_regression.py" />
+        <option value="$PROJECT_DIR$/DataOut/tree.dot" />
+        <option value="$PROJECT_DIR$/code/decision_tree.py" />
+        <option value="$PROJECT_DIR$/code/cm_plot.py" />
+        <option value="$PROJECT_DIR$/code/k_means.py" />
+        <option value="$PROJECT_DIR$/code/tsne.py" />
+        <option value="$PROJECT_DIR$/code/neutral_network.py" />
+        <option value="$PROJECT_DIR$/code/__init__.py" />
+        <option value="$PROJECT_DIR$/code/apply_apriori.py" />
+        <option value="$PROJECT_DIR$/code/apriori.py" />
+        <option value="$PROJECT_DIR$/code/arima.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="20" />
-    <option name="width" value="1024" />
-    <option name="height" value="688" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-943" />
+    <option name="y" value="128" />
+    <option name="width" value="768" />
+    <option name="height" value="480" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -101,17 +123,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="E:/Python Practice of Data Analysis and Mining/chapter5" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\GitCode\Data-Analysis-In-Action-python3\code" />
-      <recent name="E:\GitCode\Data-Analysis-In-Action-python3\Data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\GitCode\Data-Analysis-In-Action-python3\Data" />
       <recent name="E:\GitCode\Data-Analysis-In-Action-python3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitCode\Data-Analysis-In-Action-python3\Result" />
+      <recent name="E:\GitCode\Data-Analysis-In-Action-python3\code" />
+      <recent name="E:\GitCode\Data-Analysis-In-Action-python3\Data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -126,8 +149,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.componet_pca">
-    <configuration name="componet_pca" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.arima">
+    <configuration name="apply_apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Analysis-In-Action-python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,13 +162,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/componet_pca.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/apply_apriori.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="dataDiscretization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Analysis-In-Action-python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,13 +180,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/dataDiscretization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/apriori.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="interpolationBylagelangr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="arima" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Analysis-In-Action-python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,13 +198,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/interpolationBylagelangr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/arima.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="normalize_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="neutral_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Analysis-In-Action-python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,24 +216,44 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/normalize_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/neutral_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tsne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-In-Action-python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/tsne.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.interpolationBylagelangr" />
-      <item itemvalue="Python.normalize_data" />
-      <item itemvalue="Python.dataDiscretization" />
-      <item itemvalue="Python.componet_pca" />
+      <item itemvalue="Python.neutral_network" />
+      <item itemvalue="Python.tsne" />
+      <item itemvalue="Python.apply_apriori" />
+      <item itemvalue="Python.apriori" />
+      <item itemvalue="Python.arima" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.componet_pca" />
-        <item itemvalue="Python.dataDiscretization" />
-        <item itemvalue="Python.normalize_data" />
-        <item itemvalue="Python.interpolationBylagelangr" />
+        <item itemvalue="Python.arima" />
+        <item itemvalue="Python.apply_apriori" />
+        <item itemvalue="Python.apriori" />
+        <item itemvalue="Python.neutral_network" />
+        <item itemvalue="Python.tsne" />
       </list>
     </recent_temporary>
   </component>
@@ -228,16 +271,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="703" extended-state="6" />
+    <frame x="-1032" y="-8" width="1040" height="1256" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30638722" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32978722" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32978722" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45212767" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3294539" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3410922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -248,19 +290,57 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32868758" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/apply_apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/tsne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/k_means.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/componet_pca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/dataDiscretization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding>
-            <element signature="e#116#135#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -278,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/normalize_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/pandas/core/reshape/tile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -299,9 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Result/d.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Result/d.png" />
     <entry file="file://$PROJECT_DIR$/Result/d1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -313,20 +384,153 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/dataDiscretization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="808">
           <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-          <folding>
-            <element signature="e#116#135#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/logistics_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataOut/tree.dot" />
+    <entry file="file://$PROJECT_DIR$/Result/tree.dot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/cm_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="249" selection-start-line="249" selection-end-line="249" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2261" column="4" selection-start-line="2261" selection-start-column="4" selection-end-line="2261" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="1009" selection-start-line="1009" selection-end-line="1009" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result/neutral.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/normalize_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/componet_pca.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="94">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result/tene.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/tsne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/k_means.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/neutral_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="50" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="3080" selection-start-line="3080" selection-end-line="3080" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/apply_apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/apriori.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/statsmodels/tsa/kalmanf/kalmanfilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="576" selection-start-line="576" selection-end-line="576" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda2/envs/py3/Lib/site-packages/statsmodels/tsa/arima_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="1019" column="46" selection-start-line="1019" selection-start-column="46" selection-end-line="1019" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/arima.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="109" column="59" selection-start-line="109" selection-start-column="59" selection-end-line="109" selection-end-column="59" />
           <folding>
-            <element signature="e#71#91#0" expanded="true" />
+            <element signature="e#71#90#0" expanded="true" />
           </folding>
         </state>
       </provider>
