@@ -16,7 +16,11 @@ data = pd.read_excel(input)
 data['销量'][(data['销量'] < 400) | (data['销量'] > 5000)] = None
 # print(data)
 
-
+'''
+s: 列向量
+n: 需要插值的位置
+k: 取得前后的数据个数，默认为5
+'''
 def insertdata(s, n, k=5):
     y = s[list(range(n-k, n)) + list(range(n+1, n+1+k))]
     y = y[y.notnull()]

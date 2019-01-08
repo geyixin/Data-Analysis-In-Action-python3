@@ -5,7 +5,6 @@ __author__ = 'geyixin'
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 
-
 def cm_plot(y, yp):
     cm = confusion_matrix(y, yp)
     plt.matshow(cm, cmap=plt.cm.Greens)

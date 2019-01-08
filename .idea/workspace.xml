@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b072b79f-2831-4bbb-bbb0-2c8f30d4b8dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/code/discrete_point_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/exercise_pandas1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/arima.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/arima.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/cm_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/cm_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/interpolationBylagelangr.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/interpolationBylagelangr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="exercise_pandas1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/exercise_pandas1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,14 +41,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/interpolationBylagelangr.py" />
-        <option value="$PROJECT_DIR$/code/interpolationBylagelangr.py" />
         <option value="$PROJECT_DIR$/code/normalize_data.py" />
         <option value="$PROJECT_DIR$/code/dataDiscretization.py" />
         <option value="$PROJECT_DIR$/code/componet_pca.py" />
         <option value="$PROJECT_DIR$/code/logistics_regression.py" />
         <option value="$PROJECT_DIR$/DataOut/tree.dot" />
         <option value="$PROJECT_DIR$/code/decision_tree.py" />
-        <option value="$PROJECT_DIR$/code/cm_plot.py" />
         <option value="$PROJECT_DIR$/code/k_means.py" />
         <option value="$PROJECT_DIR$/code/tsne.py" />
         <option value="$PROJECT_DIR$/code/neutral_network.py" />
@@ -46,14 +55,18 @@
         <option value="$PROJECT_DIR$/code/apriori.py" />
         <option value="$PROJECT_DIR$/code/arima.py" />
         <option value="$PROJECT_DIR$/code/discrete_point_detect.py" />
+        <option value="$PROJECT_DIR$/code/interpolationBylagelangr.py" />
+        <option value="$PROJECT_DIR$/code/cm_plot.py" />
+        <option value="$PROJECT_DIR$/code/sf.py" />
+        <option value="$PROJECT_DIR$/code/exercise_pandas1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-901" />
-    <option name="y" value="105" />
-    <option name="width" value="768" />
-    <option name="height" value="480" />
+    <option name="x" value="-1319" />
+    <option name="y" value="65" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,10 +107,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="E:/Python Practice of Data Analysis and Mining/chapter5" />
+    <property name="last_opened_file_path" value="E:/Bisai/TianChengCup" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -124,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.discrete_point_detect">
+  <component name="RunManager" selected="Python.sf">
     <configuration name="apply_apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Analysis-In-Action-python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,24 +151,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/apply_apriori.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Data-Analysis-In-Action-python3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/apriori.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +192,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="neutral_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise_pandas1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data-Analysis-In-Action-python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,26 +204,44 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/neutral_network.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/exercise_pandas1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data-Analysis-In-Action-python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/sf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.neutral_network" />
       <item itemvalue="Python.apply_apriori" />
-      <item itemvalue="Python.apriori" />
       <item itemvalue="Python.arima" />
       <item itemvalue="Python.discrete_point_detect" />
+      <item itemvalue="Python.exercise_pandas1" />
+      <item itemvalue="Python.sf" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sf" />
+        <item itemvalue="Python.exercise_pandas1" />
         <item itemvalue="Python.discrete_point_detect" />
         <item itemvalue="Python.arima" />
         <item itemvalue="Python.apply_apriori" />
-        <item itemvalue="Python.apriori" />
-        <item itemvalue="Python.neutral_network" />
       </list>
     </recent_temporary>
   </component>
@@ -246,14 +259,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1032" y="-8" width="1040" height="1296" extended-state="6" />
+    <frame x="-1288" y="-100" width="1296" height="1010" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30638722" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20508744" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32978722" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3294539" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58081245" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -276,6 +290,49 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/exercise_pandas1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/sf.py" />
+    <entry file="file://$PROJECT_DIR$/code/exercise_pandas1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/neutral_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/interpolationBylagelangr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/cm_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/neutral_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/apply_apriori.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -322,13 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/interpolationBylagelangr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -382,13 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/cm_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -454,13 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/neutral_network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="50" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -503,9 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-          <folding>
-            <element signature="e#71#90#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -513,11 +546,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1148">
           <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
-          <folding>
-            <element signature="e#97#115#0" expanded="true" />
-            <element signature="e#644#653#1" />
-            <element signature="e#1093#1101#1" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/cm_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/neutral_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/interpolationBylagelangr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/sf.py" />
+    <entry file="file://$PROJECT_DIR$/code/exercise_pandas1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
